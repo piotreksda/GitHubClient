@@ -1,1 +1,1 @@
-# GitLabClient
+# GitHubClient
